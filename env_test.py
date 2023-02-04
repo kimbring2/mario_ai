@@ -1,7 +1,7 @@
 import retro
 print("retro.__file__: ", retro.__file__)
 
-env = retro.make(game='SuperMarioBros3-Nes', state='SuperMarioBros3.DarkLand.Level10')
+env = retro.make(game='SuperMarioBros3-Nes', state='SuperMarioBros3.GrassLand.Level1')
 
 env.reset()
 
