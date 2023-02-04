@@ -1,5 +1,5 @@
 # Introduction
-Training a Deep Learning agent for the Super Mario Bros 3 game. This game is more challenging to the agent than Sonic game because it requires more complex movement and longer memory ability.
+Training a Deep Learning agent for the Super Mario Bros 3 game. This game is more challenging to the agent than [Sonic game](https://github.com/kimbring2/SonicTheHedgehog2-Tensorflow2) because it requires more complex movement and longer memory ability.
 
 # Requirement
 - OpenAI Gym 0.21.0 version: ```pip install gym==0.21.0```
