@@ -1,5 +1,5 @@
 # Introduction
-Training a Deep Learning agent for the Super Mario Bros 3 game
+Training a Deep Learning agent for the Super Mario Bros 3 game. This game is more challenging to the agent than Sonic game because it requires more complex movement and longer memory ability.
 
 # Requirement
 - OpenAI Gym 0.21.0 version: ```pip install gym==0.21.0```
@@ -49,5 +49,3 @@ $ python -m retro.examples.interactive --game SuperMarioBros3-Nes
 You can play the game by the arrow keys, z, x key. 
 
 <img src="images/smb3_state_1.gif" width="500">
-
-
