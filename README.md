@@ -2,7 +2,7 @@
 Training a Deep Learning agent for the Super Mario Bros 3 game. This game is more challenging to the agent than [Sonic game](https://github.com/kimbring2/SonicTheHedgehog2-Tensorflow2) because it requires more complex movement and longer memory ability.
 
 # Requirement
-- OpenAI Gym 0.21.0 version: ```pip install gym==0.21.0```
+- OpenAI Gym 0.21.0 version
 - Gym Retro: https://github.com/openai/retro
 - ROM file of the Super Mario Bros. 3 (USA) (Rev A): https://wowroms.com/en/roms/nintendo-entertainment-system/super-mario-bros.-3/23771.html
 
