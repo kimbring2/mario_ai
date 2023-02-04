@@ -36,5 +36,18 @@ $ retro.__file__
 
 Move to data/stable/SuperMarioBros3-Nes folder of root path of the Gym Retro. Then, copy [all state files](https://github.com/kimbring2/mario_ai/tree/main/state) of this repositoty under that folder.
 
+Your folder structure should looks like below image.
+
+<img src="images/retro_folder_structure.png" width="500">
+
+At last, you are ready to run the Super Mario Bros 3 at Gym Retro. Run below command, you can play the game as human agent.
+
+```
+$ python -m retro.examples.interactive --game SuperMarioBros3-Nes
+```
+
+You can play the game by the arrow keys, z, x key. 
+
+<img src="images/smb3_state_1.gif" width="500">
 
 
