@@ -56,4 +56,4 @@ If you want to run the final stage of game where you can encounter the Bowser, r
 $ python -m retro.examples.interactive --game SuperMarioBros3-Nes --state SuperMarioBros3.DarkLand.Level10.state
 ```
 
-<img src="images/Bowser.gif" width="600">
+<img src="images/Bowser.gif" width="300">
