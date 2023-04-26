@@ -48,7 +48,7 @@ $ python -m retro.examples.interactive --game SuperMarioBros3-Nes
 
 You can play the game by the arrow keys, z, x key. 
 
-<img src="images/smb3_state_1.gif" width="500">
+<img src="images/smb3_state_1.gif" width="300">
 
 If you want to run the final stage of game where you can encounter the Bowser, run below command.
 
