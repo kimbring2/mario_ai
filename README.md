@@ -49,3 +49,9 @@ $ python -m retro.examples.interactive --game SuperMarioBros3-Nes
 You can play the game by the arrow keys, z, x key. 
 
 <img src="images/smb3_state_1.gif" width="500">
+
+If you want to run the specific level of game, run below command.
+
+```
+$ python -m retro.examples.interactive --game SuperMarioBros3-Nes --state SuperMarioBros3.DarkLand.Level1.state
+```
